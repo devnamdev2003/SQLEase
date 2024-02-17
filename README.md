@@ -1,4 +1,4 @@
-# [SQL Query Assistant: Simplify Your Data Analysis](./SQLEase.exe)
+# [SQL Query Assistant: Simplify Your Data Analysis](https://drive.google.com/file/d/1Ce1sU9qES04qsOG-5x483j0A0jR0y9lA/view?usp=sharing)
 
 ---
 
@@ -50,7 +50,7 @@ The sample dataset provided below includes simulated financial transactions over
 
 You can download the sample dataset from the link below:
 
-[Download Sample Dataset](./data.csv)
+[Download Sample Dataset](https://raw.githubusercontent.com/devnamdev2003/SQLEase/main/data.csv)
 
 ## Benefits:
 
@@ -82,4 +82,4 @@ The SQL Query Assistant empowers users to perform data analysis tasks with ease 
 
 Download the SQL Query Assistant today and revolutionize the way you interact with your data!
 
-[Download SQL Query Assistant](./SQLEase.exe) 
+[Download SQL Query Assistant](https://drive.google.com/file/d/1Ce1sU9qES04qsOG-5x483j0A0jR0y9lA/view?usp=sharing) 
