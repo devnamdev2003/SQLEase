@@ -20,6 +20,30 @@ The SQL Query Assistant is a powerful desktop application designed to streamline
 
 6. **Cross-Platform Compatibility**: The application is built using Python and Tkinter, making it compatible with Windows, macOS, and Linux operating systems.
 
+
+## How to Use:
+
+Clone the repository:
+
+```bash
+git clone https://github.com/devnamdev2003/SQLEase.git
+```
+Navigate to the project directory:
+
+```bash
+cd SQLEase
+```
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+Run the application:
+
+```bash
+python manage.py sql_gui_api.py
+```
+
 ## How It Works:
 
 1. **Upload Dataset**: Start by uploading your dataset in CSV format using the provided button. The application supports a wide range of datasets, making it suitable for various use cases.
